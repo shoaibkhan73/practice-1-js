@@ -14,3 +14,5 @@ if(isturue){
 else {
     console.log("yor are not agre to conform")
 }
+
+document.title="FRIST PRACTICE"
